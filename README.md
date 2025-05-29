@@ -44,3 +44,5 @@ This repository contains a collection of beginner-friendly SQL queries based on 
 - Use `EXPLAIN` to see if an index is being used
 
 ---
+
+I have enclosed the related MYSQL queries file along with the screenshots that contains the output.
